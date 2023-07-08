@@ -8,3 +8,5 @@
 ####       !pip install pandas
 ####       !pip install matplotlib
 ####       !pip install seaborn
+
+#### NOTE: For running a particular block of code, Press Shift + Enter in Jupyter Notebook
